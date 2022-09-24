@@ -1,0 +1,29 @@
+
+.inner{
+ overflow: hidden;
+}
+
+.inner img {
+  transition: 500ms
+}
+
+.inner img:hover{
+    transform: scale(1.3);
+} 
+
+/* project linked */
+
+.card-body2{
+  display: none;
+  position: relative;
+  color: white;
+  bottom: 0;
+  text-align: center;
+  transition: 500ms
+}
+
+.newCard:hover .card-body{
+  display: block ;
+  position: absolute;
+}
+

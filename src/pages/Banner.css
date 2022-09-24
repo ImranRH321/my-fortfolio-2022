@@ -1,0 +1,38 @@
+.Background {
+  /* background-image: url("https://i.pinimg.com/originals/10/69/a7/1069a7113c399a9a9ca3185769c59134.gif"); */
+  /* background-image: url("https://flevix.com/wp-content/uploads/2019/12/bubble-animated-background.svg"); */
+  /* background-image: url("https://gumlet.assettype.com/barandbench%2Fimport%2F2018%2F12%2Fcomputer-pallavi-mam.jpg?format=auto"); */
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0E-WLqfXh52GHonQa52CpQkLFdhZLkmy1hmtXhC_lPRyMgwf2aBLUwBp7mYoclU07jw&usqp=CAU"); */
+  background-color: black;
+  background-repeat: no-repeat;
+  opacity: 0.8;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: repeat;
+}
+
+.imran {
+  background-image: url("https://www.digitalsilk.com/wp-content/uploads/2020/06/website-development-process-1.jpg");
+  background-repeat: no-repeat;
+  opacity: 9;
+  /* width: 100%; */
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: repeat;
+}
+
+.text-color{
+ color:chartreuse;
+ transition: 500ms;
+}
+
+.Background:hover{
+    /* background-image: url("https://i.pinimg.com/originals/10/69/a7/1069a7113c399a9a9ca3185769c59134.gif"); */
+  background-image: url("https://flevix.com/wp-content/uploads/2019/12/bubble-animated-background.svg");
+  /* background-color: black; */
+  background-repeat: no-repeat;
+  opacity: 0.8;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: repeat;
+}

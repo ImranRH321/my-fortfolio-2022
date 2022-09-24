@@ -1,0 +1,107 @@
+
+/* ========================== */
+/* https://wingify.hire.trakstar.com/jobs/74b6dd7602054ed78a2e873e516bdbe8  */
+/* ========================== */
+/* About  */
+.skillBg{
+  /* border: 1px solid rebeccapurple;  */
+}
+
+.skillBg:hover .style{
+ color: rgba(50, 212, 36, 0.767) !important;
+ transform: rotate(360deg);
+ transition: all  100ms;
+}
+ 
+
+
+.resume {
+  background-color: rgba(255, 166, 0, 0.863);
+  border: none;
+  color: rgb(0, 0, 0);
+  padding: 8px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 0px 0 0 11px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+  
+.hireme {
+  background-color: #4CAF50;
+  border: none;
+  color: rgb(45, 24, 230);
+  padding: 8px 28px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  margin: 0px 0 0 11px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+
+/* ==========services=========== */
+.card2 {
+    background-color: black;
+    color: burlywood;
+}
+.card2:hover {
+    background-color: lightblue;
+    color: black;
+    transition: all 1000ms;
+}
+
+.card2:hover i{
+  color: black !important;
+}
+
+/* canvases   */
+.a:hover {
+  color: orange;
+  font-size: 20px;
+  transition: all 1000ms;
+}
+
+/* skill */
+.b {
+  background: black ;
+  color: white ;
+  transition: all 1000ms;
+  font-weight: 600;
+}
+.b:hover{
+    background-color: white;
+    color: black;
+}
+
+.sideBar {
+  background-image: url("https://cutewallpaper.org/26/aesthetic-black-gif-wallpaper/space-wallpaper-gif-posted-by-christopher-tremblay.gif");
+ 
+}
+
+/* Blogs */
+
+.blog:hover {
+  background-color: white !important ;
+  color: black !important ;
+  transition: all 1000ms;
+  border-radius: 15px !important;
+}
+
+/* Contact */
+
+.contact {
+  background-image: url("https://i.gifer.com/embedded/download/76YS.gif");
+  opacity: 5;
+  background-size: cover;
+  overflow: hidden;
+  background-repeat: repeat;
+  color: white;
+ margin: 100px 0;
+}
